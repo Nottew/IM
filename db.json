@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "image": "1.jpg",
+      "name": "T-shirt",
+      "price": 100,
+      "article": "T1",
+      "available": true
+    },
+    {
+      "image": "2.jpg",
+      "name": "T-shirt black",
+      "price": 300,
+      "article": "T2",
+      "available": false
+      },
+      {
+      "image": "3.jpg",
+      "name": "T-shirt",
+      "price": 100,
+      "article": "T3",
+      "available": true
+      },
+      {
+      "image": "4.jpg",
+      "name": "T-shirt",
+      "price": 100,
+      "article": "T4",
+      "available": true
+      },
+      {
+      "image": "5.jpg",
+      "name": "T-shirt",
+      "price": 100,
+      "article": "T5",
+      "available": true
+      },
+      {
+      "image": "6.jpg",
+      "name": "Boots",
+      "price": 500,
+      "article": "IL-01",
+      "available": false
+      },
+      {
+      "image": "7.jpg",
+      "name": "Jacket",
+      "price": 2000,
+      "article": "T1-f",
+      "available": true
+  }
+  ]
+}
